@@ -2,7 +2,7 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebas
 import { getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js"
 
 const appSettings = {
-    databaseURL: "https://addtocart-9d324-default-rtdb.firebaseio.com/"
+    databaseURL: "https://addingtocart-c2ff4-default-rtdb.firebaseio.com/"
 }
 
 const app = initializeApp(appSettings)
